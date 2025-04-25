@@ -29,3 +29,5 @@ Mobile.tap(findTestObject('calculator/click - 7'), 0)
 
 Mobile.tap(findTestObject('calculator/Button_sama_dengan'), 0)
 
+Mobile.closeApplication()
+
